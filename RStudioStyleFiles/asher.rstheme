@@ -20,7 +20,7 @@
 
 /*  cursor color   */
 .ace_cursor {
-  color: #ff0520
+  color: #b5b5b5
 }
 
 .ace_editor *, input.GNKRCKGCKS { 
